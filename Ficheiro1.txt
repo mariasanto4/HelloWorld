@@ -3,3 +3,4 @@
 
 
 Vou lhe chamar Ficheiro 1.
+implementacao com arraylist
